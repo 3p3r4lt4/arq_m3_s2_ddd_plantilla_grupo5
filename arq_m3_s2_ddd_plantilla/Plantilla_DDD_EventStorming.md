@@ -298,25 +298,3 @@ flowchart TB
 
 ---
 
-## Checklist de cierre
-
-- [x] Todos los eventos están en pasado.
-- [x] Lo fuera de alcance está marcado, no borrado.
-- [x] Cada subdominio tiene tipo (Core / Supporting / Generic).
-- [x] El glosario está consensuado con negocio.
-- [x] Cada agregado tiene sus invariantes documentadas.
-- [x] Cada Bounded Context tiene su agregado raíz claro.
-- [x] El Context Map tiene patrón en cada flecha.
-- [x] El diagrama Mermaid refleja el Context Map.
-
----
-
-## Anexo — Tabla resumen para entrega
-
-| # Paso | Entregable | Estado |
-|---|---|---|
-| 1 | Lista de 25 eventos en pasado, con alcance (21 Dentro + 4 Fuera) | ✅ |
-| 2 | 4 subdominios clasificados (2 Core + 1 Supporting + 1 Generic) | ✅ |
-| 3 | Glosario de 12 términos de Lenguaje Ubicuo | ✅ |
-| 4 | 5 entidades, 7 VOs y 4 agregados con invariantes + diagrama E/R | ✅ |
-| 5 | 4 Bounded Contexts + Context Map (5 relaciones) + diagrama Mermaid | ✅ |
